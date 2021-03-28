@@ -12,7 +12,7 @@ Move SerpentsHand.dll into the ~/.config(%AppData% on Windows)/Qurre/Plugins
  | sh_respawndelay:| Integer | 1 |
  | sh_entryannouncement: | string | "" |
  | sh_cientryannouncement: | string | "" |
- | sh_spawnbroadcast: | string | <size=60>You are <color=#03F555>\<b>Serpents Hand</b></color></size>\n\<i>Help <color=\"red\">SCPs</color> killing peoples!</i> |
+ | sh_spawnbroadcast: | string | <size=60>You are <color=#03F555>\<b>Serpents Hand\</b></color></size>\n\<i>Help <color=\"red\">SCPs</color> killing peoples!\</i> |
  | sh_friendlyfire: | bool | false |
  | sh_teleportto106: | bool | false |
  | sh_endroundfriendlyfire: | bool | false |

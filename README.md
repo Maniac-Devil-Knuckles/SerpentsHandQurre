@@ -2,10 +2,11 @@
 Plugin Serpents Hand for SCP:Secret Laboratory. Exported to Qurre
 ## Installation
 Move SerpentsHand.dll into the ~/.config(%AppData% on Windows)/Qurre/Plugins
-## Configs
+# Configs
+
  | sh_spawnitems: | 21,26,12,14,10 |
- | sh_spawnchance:   | 50 |
- | sh_health: | 120 |
+ | sh_spawnchance:| 50             |
+ | sh_health:     | 120            |
  | sh_maxsquad: | 8 |
  | sh_respawndelay: | 1 |
  | sh_entryannouncement: | "" |
